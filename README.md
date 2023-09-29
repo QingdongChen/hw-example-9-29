@@ -1,2 +1,14 @@
-# hw-example-9-29
-This repo is for prectice for homework
+# Team Name
+Tag Lne
+
+
+##Team Member Name 1
+**Hobies:**
+**Likes:**
+**Fav Movies:**
+1. The Avengers
+2. Incredible Hulk
+
+[My fav Website](https://www.google.com)
+
+![Fender Telecaster](images/tele.jpg)
