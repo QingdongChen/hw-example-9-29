@@ -4,7 +4,8 @@ Tag Lne
 
 ## Team Member Name 1
 
-**Hobies:**
+**Hobbies:**
+
 **Likes:**
 
 **Fav Movies:**
